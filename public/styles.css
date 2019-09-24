@@ -2,3 +2,13 @@
   display: flex;
   justify-content: center;
 }
+.btn-class{
+  background-color: #ffce00;
+  color: #fefefe;
+}
+
+ion-icon {
+  font-size: 40px;
+  color: #777777;
+  cursor: pointer;
+}
