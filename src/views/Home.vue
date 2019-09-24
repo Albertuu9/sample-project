@@ -11,7 +11,7 @@
             <ion-card-header>
               <ion-card-title>{{ film.title }}</ion-card-title>
             </ion-card-header>
-
+ 
             <ion-card-content>
               {{ film.overview }}
             </ion-card-content>
